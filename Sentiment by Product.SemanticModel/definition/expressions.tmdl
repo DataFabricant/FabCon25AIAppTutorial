@@ -1,0 +1,14 @@
+expression ServerName = "eolntyepxtmuxdufedar7dshvq-7at6g3ogydye7kmq3nt67wpv5e.database.fabric.microsoft.com,1433" meta [IsParameterQuery=true, Type="Text", IsParameterQueryRequired=true]
+	lineageTag: 31e7e9d5-1bef-4a98-a265-504306d2239b
+
+	annotation PBI_NavigationStepName = Navigation
+
+	annotation PBI_ResultType = Text
+
+expression DatabaseName = "DB_STORE_AIAppTutorial-f7c91c2f-bb4c-47a0-b22e-2e2bbc32b05d" meta [IsParameterQuery=true, Type="Text", IsParameterQueryRequired=true]
+	lineageTag: 4073f2f0-905c-4838-9141-09d753641f35
+
+	annotation PBI_NavigationStepName = Navigation
+
+	annotation PBI_ResultType = Text
+

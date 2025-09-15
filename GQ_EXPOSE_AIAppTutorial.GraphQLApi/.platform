@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "GraphQLApi",
+    "displayName": "GQ_EXPOSE_AIAppTutorial"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "9b02d4ae-ebbf-b2ab-4fcc-e0470a94feca"
+  }
+}
